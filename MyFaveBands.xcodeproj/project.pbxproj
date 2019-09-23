@@ -13,6 +13,17 @@
 		2AEEDED52338569D00152D54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDED32338569D00152D54 /* Main.storyboard */; };
 		2AEEDED72338569E00152D54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDED62338569E00152D54 /* Assets.xcassets */; };
 		2AEEDEDA2338569E00152D54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDED82338569E00152D54 /* LaunchScreen.storyboard */; };
+		2AEEDEEC23385BCD00152D54 /* Starset.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEE223385BCC00152D54 /* Starset.jpg */; };
+		2AEEDEED23385BCD00152D54 /* Thousand Below.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEE323385BCC00152D54 /* Thousand Below.jpg */; };
+		2AEEDEEE23385BCD00152D54 /* Imminence.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEE423385BCC00152D54 /* Imminence.jpg */; };
+		2AEEDEEF23385BCD00152D54 /* I Prevail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEE523385BCC00152D54 /* I Prevail.jpg */; };
+		2AEEDEF023385BCD00152D54 /* Ryan Caraveo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEE623385BCC00152D54 /* Ryan Caraveo.jpg */; };
+		2AEEDEF123385BCD00152D54 /* Bring Me The Horizon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEE723385BCD00152D54 /* Bring Me The Horizon.jpg */; };
+		2AEEDEF223385BCD00152D54 /* NF.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEE823385BCD00152D54 /* NF.jpg */; };
+		2AEEDEF323385BCD00152D54 /* A Day To Remember.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEE923385BCD00152D54 /* A Day To Remember.jpg */; };
+		2AEEDEF423385BCD00152D54 /* Palisades.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEEA23385BCD00152D54 /* Palisades.jpg */; };
+		2AEEDEF523385BCD00152D54 /* From Ashes To New.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEEB23385BCD00152D54 /* From Ashes To New.jpg */; };
+		2AEEDEF723385F9B00152D54 /* Favorite Bands.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AEEDEF623385F9B00152D54 /* Favorite Bands.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		2AEEDED62338569E00152D54 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AEEDED92338569E00152D54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2AEEDEDB2338569E00152D54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2AEEDEE223385BCC00152D54 /* Starset.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Starset.jpg; sourceTree = "<group>"; };
+		2AEEDEE323385BCC00152D54 /* Thousand Below.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Thousand Below.jpg"; sourceTree = "<group>"; };
+		2AEEDEE423385BCC00152D54 /* Imminence.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Imminence.jpg; sourceTree = "<group>"; };
+		2AEEDEE523385BCC00152D54 /* I Prevail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "I Prevail.jpg"; sourceTree = "<group>"; };
+		2AEEDEE623385BCC00152D54 /* Ryan Caraveo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ryan Caraveo.jpg"; sourceTree = "<group>"; };
+		2AEEDEE723385BCD00152D54 /* Bring Me The Horizon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bring Me The Horizon.jpg"; sourceTree = "<group>"; };
+		2AEEDEE823385BCD00152D54 /* NF.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = NF.jpg; sourceTree = "<group>"; };
+		2AEEDEE923385BCD00152D54 /* A Day To Remember.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "A Day To Remember.jpg"; sourceTree = "<group>"; };
+		2AEEDEEA23385BCD00152D54 /* Palisades.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Palisades.jpg; sourceTree = "<group>"; };
+		2AEEDEEB23385BCD00152D54 /* From Ashes To New.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "From Ashes To New.jpg"; sourceTree = "<group>"; };
+		2AEEDEF623385F9B00152D54 /* Favorite Bands.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Favorite Bands.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +62,7 @@
 		2AEEDEC12338569D00152D54 = {
 			isa = PBXGroup;
 			children = (
+				2AEEDEE1233857E700152D54 /* Images */,
 				2AEEDECC2338569D00152D54 /* MyFaveBands */,
 				2AEEDECB2338569D00152D54 /* Products */,
 			);
@@ -65,6 +88,24 @@
 				2AEEDEDB2338569E00152D54 /* Info.plist */,
 			);
 			path = MyFaveBands;
+			sourceTree = "<group>";
+		};
+		2AEEDEE1233857E700152D54 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				2AEEDEF623385F9B00152D54 /* Favorite Bands.jpg */,
+				2AEEDEE923385BCD00152D54 /* A Day To Remember.jpg */,
+				2AEEDEE723385BCD00152D54 /* Bring Me The Horizon.jpg */,
+				2AEEDEEB23385BCD00152D54 /* From Ashes To New.jpg */,
+				2AEEDEE523385BCC00152D54 /* I Prevail.jpg */,
+				2AEEDEE423385BCC00152D54 /* Imminence.jpg */,
+				2AEEDEE823385BCD00152D54 /* NF.jpg */,
+				2AEEDEEA23385BCD00152D54 /* Palisades.jpg */,
+				2AEEDEE623385BCC00152D54 /* Ryan Caraveo.jpg */,
+				2AEEDEE223385BCC00152D54 /* Starset.jpg */,
+				2AEEDEE323385BCC00152D54 /* Thousand Below.jpg */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +166,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2AEEDEEC23385BCD00152D54 /* Starset.jpg in Resources */,
+				2AEEDEEE23385BCD00152D54 /* Imminence.jpg in Resources */,
+				2AEEDEF023385BCD00152D54 /* Ryan Caraveo.jpg in Resources */,
+				2AEEDEF723385F9B00152D54 /* Favorite Bands.jpg in Resources */,
+				2AEEDEEF23385BCD00152D54 /* I Prevail.jpg in Resources */,
+				2AEEDEF523385BCD00152D54 /* From Ashes To New.jpg in Resources */,
 				2AEEDEDA2338569E00152D54 /* LaunchScreen.storyboard in Resources */,
+				2AEEDEF323385BCD00152D54 /* A Day To Remember.jpg in Resources */,
+				2AEEDEF223385BCD00152D54 /* NF.jpg in Resources */,
 				2AEEDED72338569E00152D54 /* Assets.xcassets in Resources */,
+				2AEEDEF123385BCD00152D54 /* Bring Me The Horizon.jpg in Resources */,
 				2AEEDED52338569D00152D54 /* Main.storyboard in Resources */,
+				2AEEDEF423385BCD00152D54 /* Palisades.jpg in Resources */,
+				2AEEDEED23385BCD00152D54 /* Thousand Below.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
